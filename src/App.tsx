@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <div className='flex flex-col gap-20'>
+      <div className='flex flex-col gap-16 md:gap-28'>
         <Home />
         <About />
         <LatestArticles />
