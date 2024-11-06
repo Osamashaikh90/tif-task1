@@ -1,6 +1,10 @@
+import Carousel from "../components/Carousel"
+
 const LatestArticles = () => {
   return (
-    <div>LatestArticles</div>
+    <section className="px-4 md:px-36">
+      <Carousel />
+    </section>
   )
 }
 
